@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muistilista</string>
+    <string name="add_task">Lisää listaan</string>
+    <string name="description">Seliteteksti</string>
+    <string name="done">Valmis</string>
+    <string name="alert_title">Poistettava kohde</string>
+    <string name="delete">Poista</string>
+    <string name="cancel">Peruuta</string>
+</resources>
